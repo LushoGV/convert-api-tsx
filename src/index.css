@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    background-image: url("https://media.gettyimages.com/id/157168312/es/foto/fondo-de-100-de-facturas.jpg?s=612x612&w=gi&k=20&c=9jvnkkgOl4w9pT6sMbdT7r31ijvQ-qjswLG8Xeq9UQI=");
+    backdrop-filter: brightness(0.4);
+ 
+} */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
